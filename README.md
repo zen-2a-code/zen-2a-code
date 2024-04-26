@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zen-2a-code
-- 👀 I’m interested in Machine learning and artificial intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in QA Testing and programming
+- 🌱 I’m currently learning QA and Java
 - 💞️ I’m looking to collaborate on... not sure yet!
 - 📫 How to reach me ...I will keep you posted.
 
